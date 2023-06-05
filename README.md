@@ -7,3 +7,4 @@ On clicking a movie, a window is created which displays the trailer of the movie
 ![image](https://github.com/akhilshetty97/Netflix_Clone/assets/47709446/12eac6be-12fe-4a7a-8657-71cfed311d97)
 
 
+The website has been hosted on Firebase.
